@@ -1,0 +1,5 @@
+{
+    "endpoint": "https://example.invalid/api",
+    "model": "your-model",
+    "api_key": "SET_YOUR_KEY_HERE"
+}
